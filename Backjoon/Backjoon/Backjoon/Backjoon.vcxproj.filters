@@ -30,7 +30,13 @@
     <ClCompile Include="0404\Backjoon1316.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="0404\Backjoon25206.cpp">
+    <ClCompile Include="0406\Backjoon25206.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0406\Backjoon2869.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0406\Backjoon2738.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
