@@ -39,5 +39,17 @@
     <ClCompile Include="0406\Backjoon2738.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Weekly\같은숫자는싫어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Weekly\기능개발.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0407\Backjoon2566.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0408\Backjoon10798.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
