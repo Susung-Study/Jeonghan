@@ -60,5 +60,14 @@
     <ClCompile Include="0411\Backjoon25305.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0412\Backjoon2751.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0412\Backjoon2798.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0412\Backjoon2231.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
